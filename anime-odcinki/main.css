@@ -1,0 +1,18 @@
+/* CONFIGURATION */
+:root {
+    /* COLORS */
+    --color-background: rgb(30, 30, 30);
+    --color-background2: rgb(20, 20, 20);
+    
+    --color-text: rgb(250, 250, 250);
+    --color-text2: rgb(200, 200, 200);
+
+    --color-acccent: rgb(100, 0, 150);
+    --color-acccent2: color-mix(in srgb, var(--color-accent), white 30%);
+
+    /* BORDERS */
+    --roundness: 5px;
+    --borders: 2px;
+}
+
+/* BODY */
