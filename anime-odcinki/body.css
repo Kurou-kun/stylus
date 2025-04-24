@@ -1,0 +1,17 @@
+/* BODY */
+.elementor-82669 {
+    background-color: red;
+    margin-top: 50px;
+    
+    /* top seperator */
+    .elementor-element-74b85751 {
+        height: 0px;
+        position: absolute;
+        background-color: transparent;
+    }
+    
+    /* fake body */
+    .elementor-element-686e74ec {
+            background-color: transparent !important;
+        }
+}
